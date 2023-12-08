@@ -1,0 +1,73 @@
+1) What does the `rm` command in the terminal do?
+
+Your answer:
+
+The rm command in the terminal is used to remove or delete files and directories in Linux/Unix
+---------------
+2) What terminal command would you use to list all the files and folder in the 
+   current directory?
+
+Your answer:
+
+ls command
+------------------
+3) Explain the difference between these two commands in the terminal:
+
+   $ cd Users
+   $ cd /Users
+
+Your answer:
+
+ $ cd Users Relative path
+ $ cd /Users Absolute path
+------------------
+4) Describe what git is and what it is used for.
+
+Your answer:
+
+Git is a version control system and used to track changes to the code over time. It maintains a history of all modifications, enabling users to revert to previous states or compare versions.
+------------------
+5) Describe what GitHub is and what it is used for.
+
+Your answer:
+
+Github is a platform for version control and collaboration using Git and used for collaboration and version control 
+------------------
+6) Which of these commands sets up a new git repository?
+    a) git clone 
+    b) git pull
+    c) git init
+    d) git status
+
+Your answer:
+
+C
+------------------
+7) You want to check that you have properly added all the files you want to be
+   tracked in git BEFORE you make a commit. Which command will do this?
+     a) git push
+     b) git commit
+     c) git status
+     d) git remote
+
+Your answer:
+
+C) git status
+------------------
+8) What is the difference between `git add` and `git commit`?
+
+Your answer:
+
+`git add`stage changes for the next commit and `git commit` to save the staged changes as a new commit in the version history.
+------------------
+9) What does the `git push` command do?
+
+Your answer:
+
+It uploads local repository content to a remote repository and updates the remote repository with the changes made in the local repository.
+------------------
+10) When would you use the `git clone` command?
+
+Your answer: It creates a copy of a remote repository on the local machine and used to initiate a local copy of a project from a repository hosted on platforms like GitHub, GitLab.
+
+
